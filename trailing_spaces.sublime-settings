@@ -1,0 +1,3 @@
+{
+  "trailing_spaces_regexp": "　|[ \t]+" // 全角スペースを正規表現に追加
+}

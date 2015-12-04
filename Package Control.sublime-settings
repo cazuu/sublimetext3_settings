@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"1Self",
+		"Abacus",
+		"All Autocomplete",
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"Case Conversion",
+		"ConvertToUTF8",
+		"GitGutter",
+		"Increment Selection",
+		"Material Theme",
+		"Material Theme - White Panels",
+		"Origami",
+		"SCSS",
+		"Smart Delete",
+		"SyncedSideBar",
+		"TrailingSpaces",
+		"Trimmer"
+	]
+}
