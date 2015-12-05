@@ -5,4 +5,5 @@ Package Control.last-run
 Evernote.sublime-settings
 FileHistory*.json
 .DS_Store
-
+Package Control.*-ca-bundle
+Package Control.cache/
