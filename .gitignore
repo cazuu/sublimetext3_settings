@@ -1,11 +1,9 @@
 /*/
-!/Packages/
-/Packages/*
-!/Packages/Default/
-!/Packages/User/
-/Packages/User/encoding_cache.json
-/Packages/User/Package Control.*-ca-bundle
-/Packages/User/Package Control.cache/
-/Packages/User/Package Control.ca-certs/
-/Packages/User/Package Control.ca-list
-/Packages/User/Package Control.last-run
+!/Default/
+!/User/
+/User/encoding_cache.json
+/User/Package Control.*-ca-bundle
+/User/Package Control.cache/
+/User/Package Control.ca-certs/
+/User/Package Control.ca-list
+/User/Package Control.last-run
