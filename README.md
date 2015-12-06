@@ -19,3 +19,6 @@
 
 4. Sublime Text 3 を起動し、Package Controll をインストール 。  
 手順: [Installation - Package Control](https://packagecontrol.io/installation)
+
+5. Source Han Code JP のインストール  
+フォント（源ノ角ゴシック Code）を[公式リポジトリ](https://github.com/adobe-fonts/source-han-code-jp)からインストールする
