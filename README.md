@@ -22,3 +22,10 @@
 
 5. Source Han Code JP のインストール  
 フォント（源ノ角ゴシック Code）を[公式リポジトリ](https://github.com/adobe-fonts/source-han-code-jp)からインストールする
+
+## sublコマンド
+```
+OSX
+ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+```
+
