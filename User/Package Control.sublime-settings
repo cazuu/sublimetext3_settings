@@ -22,6 +22,8 @@
 		"Package Control",
 		"SCSS",
 		"Smart Delete",
+		"SublimeLinter-pep257",
+		"SublimeLinter-pep8",
 		"SyncedSideBar",
 		"TrailingSpaces",
 		"Trimmer"
