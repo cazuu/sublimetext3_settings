@@ -13,6 +13,7 @@
 		"BracketHighlighter",
 		"Case Conversion",
 		"ConvertToUTF8",
+		"CTags",
 		"Dotfiles Syntax Highlighting",
 		"GitGutter",
 		"Increment Selection",
@@ -20,11 +21,14 @@
 		"Material Theme - White Panels",
 		"Origami",
 		"Package Control",
+		"Pretty JSON",
 		"SCSS",
 		"Smart Delete",
-		"SublimeLinter-pep257",
+		"SublimeCodeIntel",
 		"SublimeLinter-pep8",
+		"SublimeLinter-pydocstyle",
 		"SyncedSideBar",
+		"Theme - Afterglow",
 		"TrailingSpaces",
 		"Trimmer"
 	]
